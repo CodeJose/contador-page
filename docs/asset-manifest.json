@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.31e4085d.chunk.css",
-    "main.js": "/static/js/main.a3585385.chunk.js",
-    "main.js.map": "/static/js/main.a3585385.chunk.js.map",
+    "main.css": "/static/css/main.af7aecd8.chunk.css",
+    "main.js": "/static/js/main.db8e18c9.chunk.js",
+    "main.js.map": "/static/js/main.db8e18c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.392bd839.js",
     "runtime-main.js.map": "/static/js/runtime-main.392bd839.js.map",
     "static/js/2.0037dfa2.chunk.js": "/static/js/2.0037dfa2.chunk.js",
@@ -10,15 +10,14 @@
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.31e4085d.chunk.css.map": "/static/css/main.31e4085d.chunk.css.map",
+    "static/css/main.af7aecd8.chunk.css.map": "/static/css/main.af7aecd8.chunk.css.map",
     "static/js/2.0037dfa2.chunk.js.LICENSE.txt": "/static/js/2.0037dfa2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Estatua.ef4ef7f7.png",
-    "static/media/energy.8e1d660d.png": "/static/media/energy.8e1d660d.png"
+    "static/media/Estatua.ef4ef7f7.png": "/static/media/Estatua.ef4ef7f7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.392bd839.js",
     "static/js/2.0037dfa2.chunk.js",
-    "static/css/main.31e4085d.chunk.css",
-    "static/js/main.a3585385.chunk.js"
+    "static/css/main.af7aecd8.chunk.css",
+    "static/js/main.db8e18c9.chunk.js"
   ]
 }
